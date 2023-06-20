@@ -1,6 +1,6 @@
 # dadjokegenerator
 
-ChatGPT think it's funny.
+ChatGPT think this is funny.
 
 Why did the developer go broke after creating a GitHub repository?
 
